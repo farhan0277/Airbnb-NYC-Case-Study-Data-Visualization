@@ -11,7 +11,7 @@ Data Visualization, Data Storytelling, Business Understanding
 
 Tableau
 
-![Alt Text](Airbnb Dashboard.png)
+
 
 
 ## Project Overview
