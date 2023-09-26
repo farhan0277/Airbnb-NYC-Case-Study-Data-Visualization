@@ -11,6 +11,7 @@ Data Visualization, Data Storytelling, Business Understanding
 
 Tableau
 
+![Airbnb Dashboard](https://github.com/farhan0277/Airbnb-NYC-Case-Study-Data-Visualization/assets/144512640/7ca62794-73b2-4bbd-bf6a-d4817d0eba3f)
 
 
 
