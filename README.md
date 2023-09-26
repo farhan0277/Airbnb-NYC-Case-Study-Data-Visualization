@@ -11,6 +11,8 @@ Data Visualization, Data Storytelling, Business Understanding
 
 Tableau
 
+![Alt text](C:\Users\farha\Downloads\Analytics\Trainity\Projects\Airbnb\Airbnb Dashboard.png)
+
 
 ## Project Overview
 
